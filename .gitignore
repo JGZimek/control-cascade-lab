@@ -1,0 +1,27 @@
+# Autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Simulink code generation
+slprj/
+sccprj/
+
+# Matlab code generation
+codegen/
+
+# Simulink cache files
+*.slxc
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Octave/Matlab session info
+octave-workspace
+
+# Generated helpsearch folders
+helpsearch*/
